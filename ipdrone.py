@@ -1,6 +1,4 @@
-#coded by N17RO (noob hackers)
 
-#modules required
 import argparse
 import requests, json
 import sys
